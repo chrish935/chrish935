@@ -1,7 +1,7 @@
-### I'm an immunologist/biochemist who does most of his science from behind a keyboard.
+### I'm an immunologist/biochemist who does most of his science from behind a keyboard rather than at the bench.
 - As a scientist, I use computational tools/methods to study pathological immune cells.
-- Lately, I've become more & more interested in machine/deep learning.
-- I'm slowly, but surely working towards becoming a data scientist.
+- Lately, I've become progressively more interested in machine/deep learning & the design of systems that leverage the power of those tools.
+- I'm slowly, but surely working towards becoming a data professional.
 
 <!--
 **chrish935/chrish935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
