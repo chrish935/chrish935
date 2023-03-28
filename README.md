@@ -1,4 +1,4 @@
-### I'm an immunologist/biochemist who does most of his science from behind a keyboard rather than at the bench.
+### I'm an immunologist/biochemist who works with a computer rather than a lab bench.
 - As a scientist, I use computational tools/methods to study pathological immune cells.
 - Lately, I've become progressively more interested in machine/deep learning & the design of systems that leverage the power of those tools.
 - I'm slowly, but surely working towards becoming a data professional.
