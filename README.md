@@ -1,7 +1,7 @@
-### I'm an immunologist/biochemist who works with a computer rather than a lab bench.
+### Bioinformatician.
 - As a scientist, I use computational tools/methods to study pathological immune cells.
 - I'm interested in machine/deep learning & the design of systems that leverage the power of those tools.
-- I mainly use the core data science langauges (Python, R, SQL), but I've recently been looking into learning Rust.
+- I mainly use the core data science langauges (Python, R, SQL), but I've recently been teaching myself Rust.
 
 <!--
 **chrish935/chrish935** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
