@@ -1,4 +1,4 @@
-### Bioinformatician.
+### Biochemist turned bioinformatician.
 - As a scientist, I use computational tools/methods to study pathological immune cells.
 - I'm interested in machine/deep learning & the design of systems that leverage the power of those tools.
 - I mainly use the core data science langauges (Python, R, SQL), but I've recently been teaching myself Rust.
