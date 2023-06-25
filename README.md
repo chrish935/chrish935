@@ -1,3 +1,3 @@
 ### Biochemist turned bioinformatician.
 
-Currently with the [CDC](https://www.cdc.gov/).
+Currently working at the [CDC](https://www.cdc.gov/) as an [APHL Fellow](https://www.aphl.org/Career-Pathways/fellowships/Pages/default.aspx).
