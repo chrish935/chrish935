@@ -1,3 +1,3 @@
-Biochemist turned bioinformatician.
+### Biochemist turned bioinformatician.
 
-[@CDCgov](https://twitter.com/CDCgov)
+Currently with the [CDC](https://www.cdc.gov/).
